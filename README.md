@@ -2,8 +2,8 @@
 Operating systems Lab exercise
 # Linux commands-Shell scripting
 Linux commands-Shell scripting
-#### Developed By: KOPPPALA NAVEEN
-#### Reg.NO: 212223100023
+#### Developed By: NAGALAPURAM HASIF
+#### Reg.NO: 212223100036
 # AIM:
 To practice Linux Commands and Shell Scripting
 
